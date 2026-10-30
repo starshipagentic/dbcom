@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dbcom"
+version = "0.0.1"
+description = "Placeholder: the dbcom name is held for a future project"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "tsomerville" }]
+
+[project.urls]
+Homepage = "https://github.com/starshipagentic/dbcom"
